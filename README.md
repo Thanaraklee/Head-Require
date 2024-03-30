@@ -35,4 +35,7 @@ head-require -h
 - Make sure to run the `head-require` command in the root directory of your Python project.
 - Head-Require analyzes Python files (`*.py` and `*.ipynb`) to extract imported packages and their versions.
 
+❗**Important:**
+This command must be executed within the `activated environment`. If it's not activated, it will work under the machine's environment.
+
 Thank you for using Head-Require! 😊
