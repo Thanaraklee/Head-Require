@@ -9,12 +9,13 @@ classifiers = [
 
 setup(
     name='head_require',
-    version='0.1.0',
+    version='1.1.3',
     description='head-require is a library that aims to simplify the creation of requirements.txt files. head-require generates requirements.txt based on the packages actually used in your project.',
     long_description_content_type="text/markdown",
     long_description=open('README.md').read(),
     author='Thanarak Leenanon',
     author_email='bzank.lee@hotmail.com',
+    url = 'https://github.com/Thanaraklee/Head-Require',
     license='MIT',
     classifiers=classifiers,
     packages=find_packages(),
