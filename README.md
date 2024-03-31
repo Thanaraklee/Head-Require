@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/Thanaraklee/Head-Require/blob/main/LICENSE)
+[![Upload Python Package](https://github.com/Thanaraklee/Head-Require/actions/workflows/python-publish.yml/badge.svg?event=release)](https://github.com/Thanaraklee/Head-Require/actions/workflows/python-publish.yml)
 # Head-Require
 
 Head-Require is a Python library designed to simplify the process of generating `requirements.txt` files based on the imported packages in Python files within your project.
