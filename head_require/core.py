@@ -6,7 +6,7 @@ import argparse
 from typing import List, Dict, Any
 
 
-VERSION = '2.0.0'
+VERSION = '2.0.2'
 os.environ['LC_ALL'] = 'en_US.utf8'
 
 class HeadRequire:
