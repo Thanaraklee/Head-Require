@@ -1,7 +1,16 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/Thanaraklee/Head-Require/blob/main/LICENSE)
-[![Upload Python Package](https://github.com/Thanaraklee/Head-Require/actions/workflows/python-publish.yml/badge.svg?event=release)](https://github.com/Thanaraklee/Head-Require/actions/workflows/python-publish.yml)
 
-![head-require](https://github.com/Thanaraklee/Head-Require/blob/main/img/logo.jpg)
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/Thanaraklee/Head-Require/main/img/logo.jpg">
+</h1><br>
+
+| Badge | Link |
+|-------|------|
+| ![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg) | [License](https://github.com/Thanaraklee/Head-Require/blob/main/LICENSE) |
+| ![Upload Python Package](https://github.com/Thanaraklee/Head-Require/actions/workflows/python-publish.yml/badge.svg?event=release) | [Python Publish](https://github.com/Thanaraklee/Head-Require/actions/workflows/python-publish.yml) |
+| ![PyPI Downloads](https://img.shields.io/pypi/dm/head-require.svg?label=PyPI%20downloads) | [PyPI Stats](https://pypistats.org/packages/head-require) |
+| ![PyPI Latest Release](https://img.shields.io/pypi/v/head-require.svg) | [PyPI Latest Release](https://pypi.org/project/head-require/) |
+
+
 
 # Head-Require
 
