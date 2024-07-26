@@ -1,7 +1,8 @@
 
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/Thanaraklee/Head-Require/main/img/logo.jpg">
-</h1><br>
+</h1>
+<br>
 
 | Badge | Link |
 |-------|------|
@@ -48,6 +49,11 @@ head-require -h
 
 - Make sure to run the `head-require` command in the root directory of your Python project.
 - Head-Require analyzes Python files (`*.py` and `*.ipynb`) to extract imported packages and their versions.
+
+# Workflow
+<h1 align="center">
+<img src="https://raw.githubusercontent.com/Thanaraklee/Head-Require/main/img/workflow.jpg">
+</h1>
 
 ❗**Important:**
 This command must be executed within the `activated environment`. If it's not activated, it will work under the machine's environment.
